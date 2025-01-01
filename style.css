@@ -1,0 +1,8 @@
+.bangla-slider div{
+    background-color: red;
+    height: 900px;
+    padding: 20px;
+}
+.bs-container{
+    max-width: 99%;
+}
